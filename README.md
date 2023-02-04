@@ -19,8 +19,6 @@ Lien API : apipricinggetaround.herokuapp.com/docs
 
 Lien dashboard streamlit : https://dashboardgetaround.herokuapp.com/
 
-Et un grand merci à Levent Lisbiliroglu pour son aide.
-
 ## Auteur
 Dany Nguyen : dany.nguyen1997@gmail.com
 
