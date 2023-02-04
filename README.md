@@ -12,14 +12,16 @@ Les retours tardifs à la caisse peuvent générer de fortes frictions pour le p
 
 Afin d'atténuer ces problèmes, nous avons décidé de mettre en place un délai minimum entre deux locations. Une voiture ne s'affichera pas dans les résultats de la recherche si les heures d'enregistrement ou de départ demandées sont trop proches d'une location déjà réservée.
 
-## Auteur
-Dany Nguyen : dany.nguyen1997@gmail.com
-
 ## Présentaion vidéo du projet et liens :
 Lien vidéo : En attente...
 
 Lien API : apipricinggetaround.herokuapp.com/docs
 
 Lien dashboard streamlit : https://dashboardgetaround.herokuapp.com/
+
+Et un grand merci à Levent Lisbiliroglu pour son aide.
+
+## Auteur
+Dany Nguyen : dany.nguyen1997@gmail.com
 
 Et un grand merci à Levent Lisbiliroglu pour son aide.
